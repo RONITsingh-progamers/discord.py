@@ -8,9 +8,7 @@ discord.py
    :target: https://pypi.python.org/pypi/discord.py
    :alt: PyPI supported Python versions
    
-.. image:: https://discord.com/api/guilds/789911027932200961/widget.png?style=banner2
-   :target: https://discord.gg/r3sSKJJ
-   :alt: Discord server invite
+[![Discord](https://discord.com/api/guilds/574921006817476608/widget.png?style=banner2)](https://discord.gg/Jx4cNGG)
 
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 

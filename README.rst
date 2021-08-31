@@ -7,6 +7,18 @@ discord.py
 .. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
    :target: https://pypi.python.org/pypi/discord.py
    :alt: PyPI supported Python versions
+.. image:: https://img.shields.io/pypi/v/discord.py.svg
+   :target: https://pypi.python.org/pypi/discord.py
+   :alt: PyPI version info
+.. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
+   :target: https://pypi.python.org/pypi/discord.py
+   :alt: PyPI supported Python versions
+.. image:: https://img.shields.io/pypi/v/discord.py.svg
+   :target: https://pypi.python.org/pypi/discord.py
+   :alt: PyPI version info
+.. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
+   :target: https://pypi.python.org/pypi/discord.py
+   :alt: PyPI supported Python versions
    
 .. image:: https://discord.com/api/guilds/789911027932200961/widget.png?style=banner2
    :target: https://discord.gg/vVwYAMeub5

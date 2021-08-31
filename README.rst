@@ -1,7 +1,6 @@
 discord.py
 ==========
 
-   :alt: Discord server invite
 .. image:: https://img.shields.io/pypi/v/discord.py.svg
    :target: https://pypi.python.org/pypi/discord.py
    :alt: PyPI version info
@@ -11,6 +10,7 @@ discord.py
    
 .. image:: https://discord.com/api/guilds/789911027932200961/widget.png?style=banner2
    :target: https://discord.gg/r3sSKJJ
+   :alt: Discord server invite
 
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 

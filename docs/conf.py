@@ -49,7 +49,7 @@ autodoc_typehints = 'none'
 # napoleon_attr_annotations = False
 
 extlinks = {
-    'issue': ('https://github.com/Rapptz/discord.py/issues/%s', 'GH-'),
+    'issue': ('https://github.com/SangamBot/PDA.git/issues/%s', 'GH-'),
 }
 
 # Links used for cross-referencing stuff in other documentation
@@ -79,8 +79,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'discord.py'
-copyright = '2015-present, Rapptz'
+project = 'discord-pda'
+copyright = '2021-present, SangamBot'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -159,7 +159,7 @@ html_experimental_html5_writer = True
 html_theme = 'basic'
 
 html_context = {
-  'discord_invite': 'https://discord.gg/r3sSKJJ',
+  'discord_invite': 'https://discord.gg/4kVncjMKB4',
   'discord_extensions': [
     ('discord.ext.commands', 'ext/commands'),
     ('discord.ext.tasks', 'ext/tasks'),
@@ -167,10 +167,10 @@ html_context = {
 }
 
 resource_links = {
-  'discord': 'https://discord.gg/r3sSKJJ',
-  'issues': 'https://github.com/Rapptz/discord.py/issues',
-  'discussions': 'https://github.com/Rapptz/discord.py/discussions',
-  'examples': f'https://github.com/Rapptz/discord.py/tree/{branch}/examples',
+  'discord': 'https://discord.gg/4kVncjMKB4',
+  'issues': 'https://github.com/SangamBot/PDA/issues',
+  'discussions': 'https://github.com/SangamBot/PDA/discussions',
+  'examples': f'https://github.com/SangamBot/PDA/tree/{branch}/examples',
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -357,5 +357,5 @@ texinfo_documents = [
 def setup(app):
   if app.config.language == 'ja':
     app.config.intersphinx_mapping['py'] = ('https://docs.python.org/ja/3', None)
-    app.config.html_context['discord_invite'] = 'https://discord.gg/nXzj3dg'
-    app.config.resource_links['discord'] = 'https://discord.gg/nXzj3dg'
+    app.config.html_context['discord_invite'] = 'https://discord.gg/4kVncjMKB4'
+    app.config.resource_links['discord'] = 'https://discord.gg/4kVncjMKB4'
